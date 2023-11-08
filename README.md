@@ -1,5 +1,7 @@
 # Tableaux de Bord Power BI pour PwC
 
+![Untitled design (1)](https://github.com/lamlaikayassine/Power-BI-Virtual-Case-Experience/assets/27789372/a63dbcf4-8cba-4142-ab75-4ef3adc7f3a8)
+
 Ce référentiel GitHub contient le projet que j'ai réalisé lors de mon stage virtuel chez PwC, où j'ai eu l'occasion de travailler sur la création de tableaux de bord Power BI pour suivre les tendances du centre d'appels et les indicateurs clés de performance (KPIs), ainsi que d'approfondir mes compétences en analyse de données et en visualisation.
 
 ## Partie 1️⃣ - Création du Tableau de Bord pour le Centre d'Appels
